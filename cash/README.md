@@ -18,3 +18,7 @@ If you don't want to specify the ``target-currency`` each time you run the comma
 
 ``node bin/index.js cash --save [<target-currencies>...]``
 
+Documentation
+==
+
+You can open the file `out/index.html` in your browser to display the JSDoc
